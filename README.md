@@ -1,4 +1,5 @@
 # BudgetApp
+(Az alkalmazás a web mappában található)
 
 ## Közreműködők
 
