@@ -8,6 +8,7 @@ use Illuminate\support\Carbon;
 Use App\Models\Income;
 Use App\Models\Expense;
 
+
 class HomeController extends Controller
 {
     /**

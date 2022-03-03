@@ -26,7 +26,7 @@ class ExpenseController extends Controller
         $request->validate([
             'expense_title' => 'required',
             'expense_amount' => 'required',
-            'expense_date'=> 'required'
+            'expense_date' => 'required'
         ]);
 
         $expense = new Expense();
@@ -50,9 +50,11 @@ class ExpenseController extends Controller
         $request->validate([
             'expense_title' => 'required',
             'expense_amount' => 'required',
-            'expense_date'=> 'required'
+            'expense_date' => 'required'
         ]);
 
+        /*A findOrFail és firstOrFail metódusok lekérik a lekérdezés első eredményét; 
+        Ha azonban nem található eredmény, a rendszer egy Illuminate\Database\Eloquent\ModelNotFoundExceptiont dob:*/
         $expense = Expense::findOrFail($request->expense_id);
         $expense->expense_title = $request->expense_title;
         $expense->expense_amount = $request->expense_amount;
