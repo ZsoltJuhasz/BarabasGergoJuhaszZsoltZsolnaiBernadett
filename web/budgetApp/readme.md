@@ -37,6 +37,7 @@ composer install
 ```
 Create a database and set information to .env,
 after that run composer update and php artisan key:generate
+and check for the right php version
 
 
 Run migrate (--seed for faker data)
