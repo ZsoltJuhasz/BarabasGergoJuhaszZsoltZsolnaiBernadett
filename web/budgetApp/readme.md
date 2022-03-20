@@ -36,9 +36,9 @@ Install composer for vendor file
 composer install
 ```
 Create a database and set information to .env,
-after that run composer update and php artisan key:generate
-and check for the right php version (7.3.10)
-This is a video how to set up your php version in xampp if it is needed 
+after that run composer update(if it is needed) and php artisan key:generate
+and check for the right php version (7.3.10) if this isn't the correct version then 
+this is a video how to set up your php version in xampp 
 https://www.youtube.com/watch?v=wtgiEluCbhc
 
 
