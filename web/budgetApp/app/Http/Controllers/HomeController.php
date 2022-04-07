@@ -3,11 +3,11 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-Use Auth;
+// Use Auth;
 use Illuminate\support\Carbon;
 Use App\Models\Income;
 Use App\Models\Expense;
-
+use Illuminate\Support\Facades\Auth;
 
 class HomeController extends Controller
 {
