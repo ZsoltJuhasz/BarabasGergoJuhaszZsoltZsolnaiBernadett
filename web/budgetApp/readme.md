@@ -25,7 +25,7 @@ git clone https://github.com/ZsoltJuhasz/BarabasGergoJuhaszZsoltZsolnaiBernadett
 ```
 Goto incomeExpense Folde
 ```sh
-cd budgetApp
+cd web cd budgetApp
 ```
 Copy .env.example to .env 
 ```sh
