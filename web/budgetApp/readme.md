@@ -21,7 +21,7 @@ Features:
 
 Clone this repository-
 ```sh
-git clone https://github.com/ZsoltJuhasz/budgetApp
+https://github.com/ZsoltJuhasz/BarabasGergoJuhaszZsoltZsolnaiBernadett.git
 ```
 Goto incomeExpense Folde
 ```sh
