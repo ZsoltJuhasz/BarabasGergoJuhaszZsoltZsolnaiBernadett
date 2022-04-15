@@ -23,7 +23,7 @@ Clone this repository-
 ```sh
 git clone https://github.com/ZsoltJuhasz/BarabasGergoJuhaszZsoltZsolnaiBernadett.git
 ```
-Goto incomeExpense Folde
+Go to the project folder
 ```sh
 cd web cd budgetApp
 ```
