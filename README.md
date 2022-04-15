@@ -5,4 +5,4 @@
 
 * Barabás Gergely
 * Juhász Zsolt
-* Zsolnay Bernadett
+* Zsolnai Bernadett
