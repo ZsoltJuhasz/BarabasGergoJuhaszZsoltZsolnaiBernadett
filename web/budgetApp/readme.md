@@ -21,7 +21,7 @@ Features:
 
 Clone this repository-
 ```sh
-https://github.com/ZsoltJuhasz/BarabasGergoJuhaszZsoltZsolnaiBernadett.git
+git clone https://github.com/ZsoltJuhasz/BarabasGergoJuhaszZsoltZsolnaiBernadett.git
 ```
 Goto incomeExpense Folde
 ```sh
