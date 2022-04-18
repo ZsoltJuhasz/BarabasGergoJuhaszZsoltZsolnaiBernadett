@@ -21,11 +21,11 @@ Features:
 
 Clone this repository-
 ```sh
-git clone https://github.com/ZsoltJuhasz/budgetApp
+git clone https://github.com/ZsoltJuhasz/BarabasGergoJuhaszZsoltZsolnaiBernadett.git
 ```
-Goto incomeExpense Folde
+Go to the project folder
 ```sh
-cd budgetApp
+cd web cd budgetApp
 ```
 Copy .env.example to .env 
 ```sh
