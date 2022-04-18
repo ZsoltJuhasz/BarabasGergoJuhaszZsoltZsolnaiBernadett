@@ -17,13 +17,13 @@ Features:
 
 ## Screenshot
 
-![Screenshot (7)](https://user-images.githubusercontent.com/40033062/66742324-364e0300-ee99-11e9-98c3-2ab492bd154d.png)
+![Screenshot (7)]
 
-![Screenshot (8)](https://user-images.githubusercontent.com/40033062/66742412-64334780-ee99-11e9-99dc-6031ebb16cad.png)
+![Screenshot (8)]
 
-![Screenshot (9)](https://user-images.githubusercontent.com/40033062/66742420-69909200-ee99-11e9-8fa5-ce8c95007823.png)
+![Screenshot (9)]
 
-![Screenshot (10)](https://user-images.githubusercontent.com/40033062/66742428-6d241900-ee99-11e9-9089-e1bd2e2311ad.png)
+![Screenshot (10)]
 
 ## Installation Process
 
