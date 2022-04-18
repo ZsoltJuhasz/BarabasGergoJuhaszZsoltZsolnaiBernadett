@@ -15,16 +15,6 @@ Features:
 - And also you can see all your summary like all income and expense from all time that you added in this software.
 
 
-## Screenshot
-
-![Screenshot (7)]
-
-![Screenshot (8)]
-
-![Screenshot (9)]
-
-![Screenshot (10)]
-
 ## Installation Process
 
 Clone this repository-
