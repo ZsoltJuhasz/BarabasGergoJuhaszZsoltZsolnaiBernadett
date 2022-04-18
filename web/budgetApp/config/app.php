@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Income Expense Manager'),
+    'name' => env('APP_NAME', 'Budget Tracker'),
 
     /*
     |--------------------------------------------------------------------------

@@ -122,8 +122,8 @@
             <div class="card-body">
                 <canvas id="incomeExpenseChart" width="100%" height="30"></canvas>
             </div>
-            <div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>
-            </div>
+            <!-- <div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>
+            </div> nem szükséges-->
         </div>
         </div>
     </div>
@@ -142,7 +142,7 @@
                 labels: ["Income", "Expense"],
                 datasets: [{
                 data: [income, expense],
-                backgroundColor: ['#007bff', '#dc3545'],
+                backgroundColor: ['#11a629', '#dc3545'],
                 }],
             },
         });
