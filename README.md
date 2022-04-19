@@ -2,14 +2,14 @@
 
 ## Közreműködők
 
-* Barabás Gergő 
+* Barabás Gergő: 
 Back-end
 Adatbázis tervezés 
-* Juhász Zsolt
+* Juhász Zsolt:
 Front-end
 Dokumentáció
 Adatbázis megvalósítást
-* Zsolnai Bernadett
+* Zsolnai Bernadett:
 Asztali alkalmazás
 
 
