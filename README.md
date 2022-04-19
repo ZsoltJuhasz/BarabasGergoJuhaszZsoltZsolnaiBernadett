@@ -12,7 +12,7 @@ Tulajdonságok:
 - Napi bevételek, költségek vagy bármilyen megjegyzés hozzáadása, szerkesztése, törlése.
 - Az irányítópulton megtekintheti az e havi költségeit, bevételeit, és egyenlegét is.
 - A programban található egy Javascriptel készült számológép. Ezzel lehet számolni(kivéve a negatív értékeket, azt az alkalmazás megoldja).
-- Ezenkívül láthatja az összefoglalót az összes bevételről és kiadásról, láthatja az ehavi és az eddig megtörtént összes tranzakciót az alkalmazásunkban. 
+- Ezenkívül láthatja az összefoglalót az összes bevételről és kiadásról, láthatja az e havi és az eddig megtörtént összes tranzakciót az alkalmazásunkban. 
 
 
 ## Installation process/Telepítési folyamat
