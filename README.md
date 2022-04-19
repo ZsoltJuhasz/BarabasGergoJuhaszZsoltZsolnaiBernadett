@@ -52,7 +52,7 @@ Ezután ellenőrizze a megfelelő php verziót (7.3.10). Ha nincs a számítóg�
 megtekintheti ezt az oktatóvideót. Ez egy videó a php verzió megváltoztatásáról xampp-ban
 https://www.youtube.com/watch?v=wtgiEluCbhc
 
-Run migrate (--seed for faker data) Futassa a migrációs parancsot (--seed kapcsoló a fakerrel feltöltött adatok miatt szükséges)
+Run migrate (--seed for faker data) Futassa a migrációs parancsot (--seed kapcsoló a fakerrel feltöltött adatok miatt szükséges a migráció meg az adatbázis táblák létrehozása miatt)
 ```sh
 php artisan migrate --seed
 ```
