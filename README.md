@@ -3,12 +3,12 @@
 ## Közreműködők
 
 * Barabás Gergő: 
-Back-end
+Back-end,
 Adatbázis tervezés 
 * Juhász Zsolt:
-Front-end
-Dokumentáció
-Adatbázis megvalósítást
+Front-end,
+Dokumentáció,
+Adatbázis megvalósítás
 * Zsolnai Bernadett:
 Asztali alkalmazás
 
