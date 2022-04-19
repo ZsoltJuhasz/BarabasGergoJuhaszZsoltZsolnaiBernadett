@@ -3,14 +3,14 @@
 ## Közreműködők
 
 * Barabás Gergő 
-- Back-end
-- Adatbázis tervezés 
+Back-end
+Adatbázis tervezés 
 * Juhász Zsolt
-- Front-end
-- Dokumentáció
-- Adatbázis megvalósítást
+Front-end
+Dokumentáció
+Adatbázis megvalósítást
 * Zsolnai Bernadett
-- Asztali alkalmazás
+Asztali alkalmazás
 
 
 ## A pénzmozgás követő alkalmazásról
