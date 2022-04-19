@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=wtgiEluCbhc
 
 Hozzon létre egy adatbázist, és állítsa be az adatbázis nevét ugyanarra, amelyet a phpMyAdmin programban hozott létre az .env fájlban,
 majd futtasd a zeneszerző frissítést (ha szükséges) és a php artisan kulcsot: generáld.
-Ezután ellenőrizze a megfelelő php verziót (7.3.10). Ha nincs a gépeden ez a php verzió, akkor
+Ezután ellenőrizze a megfelelő php verziót (7.3.10). Ha nincs a számítógépén ez a php verzió, akkor
 megtekintheti ezt az oktatóvideót. Ez egy videó a php verzió megváltoztatásáról xampp-ban
 https://www.youtube.com/watch?v=wtgiEluCbhc
 
