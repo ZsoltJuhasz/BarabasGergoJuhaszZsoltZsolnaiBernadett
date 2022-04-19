@@ -54,6 +54,7 @@ Then run / Ezek után futassa(indítsa el a szervert)
 php artisan serve
 ```
 GoTo [http://127.0.0.1:8000](http://127.0.0.1:8000) for visiting your budget tracker app
+
 Majd ezután nyissa meg a következő linket a böngészőben(ctrl + bal klikk az egeren) <http://127.0.0.1:8000>
 
 For the first Login:
