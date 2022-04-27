@@ -51,7 +51,7 @@
                     </div>
                     <div class="mr-5">Total Summary</div>
                 </div>
-                <a class="nav-link text-white text-center card-footer clearfix small z-1" href="{{ route('notes.index') }}"  class="card-footer text-white clearfix small z-1" href="#">
+                <a class="nav-link text-white text-center card-footer clearfix small z-1" href="{{ route('summary') }}"  class="card-footer text-white clearfix small z-1" href="#">
                     <span class="float-left">View All Summary</span>
                     <span class="float-right">
                         <i class="fas fa-angle-right"></i>
